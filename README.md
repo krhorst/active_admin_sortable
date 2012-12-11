@@ -6,7 +6,7 @@ Add drag and drop sorting with ajax update to Active Admin Index Pages
 
 Add this line to your application's Gemfile:
 
-    gem 'active_admin_sortable'
+    gem 'active_admin_sortable', :git => "git://github.com/krhorst/active_admin_sortable.git"
 
 And then execute:
 
